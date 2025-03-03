@@ -1,79 +1,110 @@
-# <div align="center">👋 Hi, I'm Munawwar</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;RAG+Specialist;Agent+Developer;Python+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:00BFFF&height=200&section=header&text=Munawwar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+RAG+Specialist+%7C+Agent+Developer;Building+Next-Gen+AI+Solutions;Language+Models+%7C+Vector+Databases+%7C+Embeddings;Turning+AI+Research+into+Production+Systems)](https://git.io/typing-svg)
+  <p>
+    <a href="mailto:munawwar9022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/munawwar-malook/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://drive.google.com/file/d/1MJe_JeS904uMpLK-2C7RXV2H5HyNPaop/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  </p>
 </div>
 
-## 📊 About Me
+## 🧠 AI Engineering Expertise
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Munawwar"
+        self.role = "AI Engineer"
+        self.specialties = ["RAG Systems", "AI Agents", "LLM Optimization", "ASR"]
+        self.tools = ["LangChain", "LlamaIndex", "Transformers", "Vector DBs"]
+        
+    def solve_problems_with_ai(self, challenge):
+        solution = apply(self.specialties, challenge)
+        return optimize_for_production(solution)
+```
 
-I'm an **AI Engineer** with a strong computer science background and expertise in developing generative AI solutions, RAG pipelines, and AI-driven knowledge bases. Skilled in Python and R, with a focus on optimizing LLM workflows and deploying scalable cloud solutions.
+I design and implement intelligent solutions by combining **foundational ML knowledge** with **cutting-edge LLM techniques**. With expertise in developing generative AI systems, RAG pipelines, and AI-driven knowledge bases, I focus on bridging research advances and practical business applications.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/RAG-Expert-brightgreen" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI-Agents-blue" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/ASR-Specialist-orange" alt="ASR" />
-  <img src="https://img.shields.io/badge/Python-Advanced-yellow" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,flask,javascript,vue,postgres,redis,linux,git,bash,c" />
+</div>
+
+## 🚀 Featured AI Projects
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Advanced RAG System for PDF Q&A</h3>
+        <p align="center">
+          <a href="https://github.com/rana-tigrina/PDF-Q-and-A-Rag" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rana-tigrina&repo=PDF-Q-and-A-Rag&theme=tokyonight&hide_border=true" alt="Project 1"/>
+          </a>
+          <p align="center">
+            Built a sophisticated RAG system using embeddings, vector search, and reranking for precise document Q&A
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">AI Therapy Notes Generator</h3>
+        <p align="center">
+          <a href="https://github.com/rana-tigrina/AI-Therpy-Notes-Maker" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rana-tigrina&repo=AI-Therpy-Notes-Maker&theme=tokyonight&hide_border=true" alt="Project 2"/>
+          </a>
+          <p align="center">
+            Developed an LLM-powered system that generates therapy notes from session transcripts
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🔭 Current Focus
-
-- Working on a **Mental Health Diagnostic App** 
-- Learning **Deep Learning**, **LangGraph**, and **Transformers**
-- Building advanced **RAG systems** and **AI Agents**
-
-## 💻 Tech Stack
-
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" width="48" height="48"/></td>
+      <td><b>Mental Health Diagnostic App</b><br>Developing an AI-powered mental health assessment tool</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="48" height="48"/></td>
+      <td><b>RAG Systems</b><br>Building advanced retrieval systems with reasoning capabilities</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="48" height="48"/></td>
+      <td><b>Agent Systems</b><br>Developing autonomous AI agents with planning capabilities</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="48" height="48"/></td>
+      <td><b>Learning</b><br>Deep diving into LangGraph, multimodal models, and embedding techniques</td>
+    </tr>
+  </table>
 </div>
 
-## 🚀 Projects
-
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/rana-tigrina/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rana-tigrina&repo=PDF-Q-and-A-Rag&theme=github_dark" />
-  </a>
-  <a href="https://github.com/rana-tigrina/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rana-tigrina&repo=AI-Therpy-Notes-Maker&theme=github_dark" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=rana-tigrina&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-tigrina&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+## 🔍 AI Engineering Philosophy
+"AI systems should be robust, transparent, and built to solve real problems. My goal is to create solutions that bridge cutting-edge research with practical applications."
 
-## 📫 Connect With Me
-
-- 📧 Email: [munawwar9022@gmail.com](mailto:munawwar9022@gmail.com)
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1MJe_JeS904uMpLK-2C7RXV2H5HyNPaop/view?usp=sharing)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+* **RAG Expert**: Specialized in designing retrieval systems with context processing
+* **Agent Developer**: Build autonomous AI systems with planning and reasoning capabilities
+* **ASR Specialist**: Experience with speech recognition systems and audio processing
+* **LLM Optimization**: Proficient in fine-tuning, prompt engineering, and deployment
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rana-tigrina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
----
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/rana-tigrina">rana-tigrina</a></i>
-</div>
