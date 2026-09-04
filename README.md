@@ -4,7 +4,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00E599&center=true&vCenter=true&random=false&width=650&lines=Senior+AI%2FML+%26+Systems+Engineer;Autonomous+Multi-Agent+Architectures+(LangGraph+%2B+MCP);Deterministic+RAG+%26+Automated+RAGAS+Observability;Clinical+NLP+%26+Speech+AI+(WhisperX+%2B+LLaMA+3.2);IIT+Madras+Data+Science+%7C+2x+Peer-Reviewed+Author" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00E599&center=true&vCenter=true&random=false&width=650&lines=AI%2FML+%26+Systems+Engineer;Autonomous+Multi-Agent+Architectures+(LangGraph+%2B+MCP);Deterministic+RAG+%26+Automated+RAGAS+Observability;Clinical+NLP+%26+Speech+AI+(WhisperX+%2B+LLaMA+3.2);IIT+Madras+Data+Science+%7C+2x+Peer-Reviewed+Author" alt="Typing SVG" />
   </a>
 
   <p align="center">
