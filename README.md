@@ -107,10 +107,10 @@ def critic_reflection_gate(state: ProductionAgentState) -> str:
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">⚡ Senior AI Engineer Interactive Portfolio</h3>
+        <h3 align="center">⚡ AI Engineer Interactive Portfolio</h3>
         <p align="center">
           <a href="https://github.com/rana-tigrina/Portfolio" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rana-tigrina&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E599&icon_color=00BFFF" alt="Flagship Portfolio"/>
+            <img src="https://portfolio-rana-bbdf.vercel.app/" alt="Flagship Portfolio"/>
           </a>
         </p>
         <p align="justify">
